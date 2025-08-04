@@ -32,7 +32,7 @@ app.get('/', (req, res) => {
         </style>
       </head>
       <body>
-        <h1>🚀 Yo! I’m Saurabh – DevOps Learner in Action!</h1>
+        <h1>🚀 Yo! I’m Saurabh Gusain – DevOps Learner in Action!</h1>
         <p>👨‍💻 Currently leveling up my skills in <span class="highlight">Node.js, Docker, CI/CD & Cloud</span>.</p>
         <p>🔁 This app is running inside a Docker container and will soon be powered by a full CI/CD pipeline.</p>
         <p>🛠️ From <span class="highlight">zero to pro</span>, one commit at a time.</p>
